@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on Project Moonshine
-- 📫 How to reach me, you can contact e-drafts at e-drafts.com/contact
+- 📫 How to reach me, you can contact e-drafts at https://e-drafts.com/contact
 
 <!---
 e-drafts/e-drafts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
