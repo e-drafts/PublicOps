@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @e-drafts
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on Project Moonshine
+- 💞️ I’m looking to collaborate on Project DevOps
 - 📫 How to reach me, you can contact e-drafts at https://e-drafts.com/contact
 
 <!---
